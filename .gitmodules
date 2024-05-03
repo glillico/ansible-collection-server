@@ -1,3 +1,6 @@
 [submodule "roles/add_rm_pkgs"]
 	path = roles/add_rm_pkgs
 	url = https://github.com/glillico/ansible-role-add_rm_pkgs.git
+[submodule "roles/auto_pkg_updates"]
+	path = roles/auto_pkg_updates
+	url = https://github.com/glillico/ansible-role-auto_pkg_updates.git
