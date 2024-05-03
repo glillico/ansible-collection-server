@@ -43,3 +43,6 @@
 [submodule "roles/set_hostname"]
 	path = roles/set_hostname
 	url = https://github.com/glillico/ansible-role-set_hostname.git
+[submodule "roles/setup_ssh_keys"]
+	path = roles/setup_ssh_keys
+	url = https://github.com/glillico/ansible-role-setup_ssh_keys.git
