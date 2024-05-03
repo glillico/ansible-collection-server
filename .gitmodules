@@ -31,3 +31,6 @@
 [submodule "roles/install_figurine"]
 	path = roles/install_figurine
 	url = https://github.com/glillico/ansible-role-install_figurine.git
+[submodule "roles/manage_selinux"]
+	path = roles/manage_selinux
+	url = https://github.com/glillico/ansible-role-manage_selinux.git
