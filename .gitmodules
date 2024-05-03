@@ -34,3 +34,6 @@
 [submodule "roles/manage_selinux"]
 	path = roles/manage_selinux
 	url = https://github.com/glillico/ansible-role-manage_selinux.git
+[submodule "roles/reboot_server"]
+	path = roles/reboot_server
+	url = https://github.com/glillico/ansible-role-reboot_server.git
