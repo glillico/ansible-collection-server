@@ -13,3 +13,6 @@
 [submodule "roles/configure_sshd"]
 	path = roles/configure_sshd
 	url = https://github.com/glillico/ansible-role-configure_sshd.git
+[submodule "roles/configure_sudo"]
+	path = roles/configure_sudo
+	url = https://github.com/glillico/ansible-role-configure_sudo.git
