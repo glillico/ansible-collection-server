@@ -40,3 +40,6 @@
 [submodule "roles/regenerate_ssh_host_keys"]
 	path = roles/regenerate_ssh_host_keys
 	url = https://github.com/glillico/ansible-role-regenerate_ssh_host_keys.git
+[submodule "roles/set_hostname"]
+	path = roles/set_hostname
+	url = https://github.com/glillico/ansible-role-set_hostname.git
