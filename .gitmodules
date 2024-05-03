@@ -22,3 +22,6 @@
 [submodule "roles/deploy_firewall"]
 	path = roles/deploy_firewall
 	url = https://github.com/glillico/ansible-role-deploy_firewall.git
+[submodule "roles/install_docker"]
+	path = roles/install_docker
+	url = https://github.com/glillico/ansible-role-install_docker.git
