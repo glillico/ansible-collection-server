@@ -25,3 +25,6 @@
 [submodule "roles/install_docker"]
 	path = roles/install_docker
 	url = https://github.com/glillico/ansible-role-install_docker.git
+[submodule "roles/install_fail2ban"]
+	path = roles/install_fail2ban
+	url = https://github.com/glillico/ansible-role-install_fail2ban.git
