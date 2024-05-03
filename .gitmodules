@@ -7,3 +7,6 @@
 [submodule "roles/configure_firewall"]
 	path = roles/configure_firewall
 	url = https://github.com/glillico/ansible-role-configure_firewall.git
+[submodule "roles/configure_ntp"]
+	path = roles/configure_ntp
+	url = https://github.com/glillico/ansible-role-configure_ntp.git
