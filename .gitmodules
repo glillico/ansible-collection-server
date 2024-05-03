@@ -1,0 +1,3 @@
+[submodule "roles/add_rm_pkgs"]
+	path = roles/add_rm_pkgs
+	url = https://github.com/glillico/ansible-role-add_rm_pkgs.git
