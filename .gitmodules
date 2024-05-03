@@ -28,3 +28,6 @@
 [submodule "roles/install_fail2ban"]
 	path = roles/install_fail2ban
 	url = https://github.com/glillico/ansible-role-install_fail2ban.git
+[submodule "roles/install_figurine"]
+	path = roles/install_figurine
+	url = https://github.com/glillico/ansible-role-install_figurine.git
