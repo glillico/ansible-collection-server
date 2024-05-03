@@ -19,3 +19,6 @@
 [submodule "roles/copy_etc_issue"]
 	path = roles/copy_etc_issue
 	url = https://github.com/glillico/ansible-role-copy_etc_issue.git
+[submodule "roles/deploy_firewall"]
+	path = roles/deploy_firewall
+	url = https://github.com/glillico/ansible-role-deploy_firewall.git
