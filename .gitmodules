@@ -46,3 +46,6 @@
 [submodule "roles/setup_ssh_keys"]
 	path = roles/setup_ssh_keys
 	url = https://github.com/glillico/ansible-role-setup_ssh_keys.git
+[submodule "roles/setup_users"]
+	path = roles/setup_users
+	url = https://github.com/glillico/ansible-role-setup_users.git
