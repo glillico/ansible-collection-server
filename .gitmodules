@@ -4,3 +4,6 @@
 [submodule "roles/auto_pkg_updates"]
 	path = roles/auto_pkg_updates
 	url = https://github.com/glillico/ansible-role-auto_pkg_updates.git
+[submodule "roles/configure_firewall"]
+	path = roles/configure_firewall
+	url = https://github.com/glillico/ansible-role-configure_firewall.git
