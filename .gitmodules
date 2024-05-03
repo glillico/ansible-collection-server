@@ -49,3 +49,6 @@
 [submodule "roles/setup_users"]
 	path = roles/setup_users
 	url = https://github.com/glillico/ansible-role-setup_users.git
+[submodule "roles/sync_sudo"]
+	path = roles/sync_sudo
+	url = https://github.com/glillico/ansible-role-sync_sudo.git
