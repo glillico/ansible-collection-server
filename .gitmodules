@@ -37,3 +37,6 @@
 [submodule "roles/reboot_server"]
 	path = roles/reboot_server
 	url = https://github.com/glillico/ansible-role-reboot_server.git
+[submodule "roles/regenerate_ssh_host_keys"]
+	path = roles/regenerate_ssh_host_keys
+	url = https://github.com/glillico/ansible-role-regenerate_ssh_host_keys.git
