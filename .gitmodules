@@ -52,3 +52,6 @@
 [submodule "roles/sync_sudo"]
 	path = roles/sync_sudo
 	url = https://github.com/glillico/ansible-role-sync_sudo.git
+[submodule "roles/update_pkgs"]
+	path = roles/update_pkgs
+	url = https://github.com/glillico/ansible-role-update_pkgs.git
