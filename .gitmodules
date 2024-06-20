@@ -61,3 +61,6 @@
 [submodule "roles/deploy_histtimeformat"]
 	path = roles/deploy_histtimeformat
 	url = https://github.com/glillico/ansible-role-deploy_histtimeformat.git
+[submodule "roles/deploy_sysstat"]
+	path = roles/deploy_sysstat
+	url = https://github.com/glillico/ansible-role-deploy_sysstat.git
